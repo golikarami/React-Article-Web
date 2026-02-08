@@ -21,7 +21,11 @@ Built to practice **React, API integration, routing, and responsive design** �
 ## Installation ⚙️
 
 ```bash
-git clone <https://github.com/golikarami/React-Article-Web.git>
-cd <react-article-web>
+# 1. Install dependencies
 npm install
+
+# 2. Run  API (JSON Server)
+npx json-server --watch data/db.json --port 8000
+
+# 3. Run React app
 npm start
