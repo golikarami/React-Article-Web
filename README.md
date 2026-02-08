@@ -46,7 +46,11 @@ A **modern React app** for managing articles. Perfect for learning **API integra
 
 
 
-### `npm start`
+## Run:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+npm install
+```
+```bash
+npm start
+```
