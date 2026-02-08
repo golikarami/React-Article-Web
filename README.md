@@ -1,4 +1,4 @@
-# React Article Hub 📰✨
+# React Article Hub 📰
 
 A sleek **React** web app for managing articles.  
 Includes a **Header** 🏠, **Footer** 📌, **Home** 📰 with article list, **About** ℹ️, and **Add Article** ➕ page.  
@@ -21,7 +21,7 @@ Built to practice **React, API integration, routing, and responsive design** �
 ## Installation ⚙️
 
 ```bash
-git clone <REPO_URL>
-cd <PROJECT_FOLDER>
+git clone <https://github.com/golikarami/React-Article-Web.git>
+cd <react-article-web>
 npm install
 npm start
